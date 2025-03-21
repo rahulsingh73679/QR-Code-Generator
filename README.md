@@ -1,6 +1,8 @@
 # QR-Code-Generator
 
 
+video for flask+flutter
+https://youtu.be/4TUsq4GizXk?si=7CbK62OXRXXDFFg7
 
 
 
